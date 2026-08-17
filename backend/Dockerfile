@@ -13,7 +13,10 @@ COPY . .
 # Generate Prisma Client
 RUN npx prisma generate
 
+# Build TypeScript to Javascript
+RUN npm run build
+
 EXPOSE 5000
 
-# Start server after applying migrations (via entrypoint command in docker-compose or script)
-CMD ["sh", "-c", "npx prisma migrate deploy && npm run build && npm start"]
+# Start server (migrations are run locally)
+CMD ["npm", "start"]
