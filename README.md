@@ -32,163 +32,95 @@
 * Audit logs
 * Excel attendance reports
 
----
+## 📸 Application Screenshots
 
-# 📸 Application Screenshots
+### 🏠 Landing Page
 
-## 🏠 Landing Page
+The main entry point of AttendX.
 
-<!-- ADD SCREENSHOT HERE -->
-
-`![AttendX Landing Page](screenshot/01-landing-page.png)`
-
-Brief introduction to AttendX and navigation to the employee/admin portals.
+![AttendX Landing Page](screenshot/01-landing-page.png)
 
 ---
 
-## 👤 Employee Registration
+### 👤 Employee Registration
 
-<!-- ADD SCREENSHOT HERE -->
+Employee registration interface.
 
-`![Employee Registration](screenshot/02-employee-registration.png)`
-
-Employee registration interface with required identity and biometric verification steps.
+![Employee Registration](screenshot/02-employee-registration.png)
 
 ---
 
-## 🔐 Employee Login
+### 🔐 Employee Login
 
-<!-- ADD SCREENSHOT HERE -->
+Login interface for registered employees.
 
-`![Employee Login](screenshot/03-employee-login.png)`
-
-Employee authentication before accessing attendance features.
+![Employee Login](screenshot/03-employee-login.png)
 
 ---
 
-## 📍 Location & Face Verification
+### 📍 Face & Location Verification
 
-<!-- ADD SCREENSHOT HERE -->
+Face and location verification before attendance.
 
-`![Face and Location Verification](screenshot/04-face-location-verification.png)`
-
-Attendance verification using facial identity and permitted workplace location.
-
-> 🔒 **Privacy:** Screenshots should contain only dummy/test information. Do not upload real faces, phone numbers, GPS coordinates, employee names, or biometric data.
+![Face & Location Verification](screenshot/04-face-location-verification.png)
 
 ---
 
-## 🕘 Employee Dashboard
+# 🧑‍💼 Admin Portal
 
-<!-- ADD SCREENSHOT HERE -->
+### 🔑 Admin Login
 
-`![Employee Dashboard](screenshot/05-employee-dashboard.png)`
+Secure administrator login.
 
-Displays attendance status, punch-in/punch-out information and working hours.
-
----
-
-## 📅 Attendance History
-
-<!-- ADD SCREENSHOT HERE -->
-
-`![Attendance History](screenshot/06-attendance-history.png)`
-
-Employee attendance records presented in an easy-to-read format.
+![Admin Login](screenshot/07-admin-login.png)
 
 ---
 
-# 🧑‍💼 Admin Panel
+### 📊 Admin Dashboard
 
-## 🔑 Admin Login
+Overview of attendance information.
 
-<!-- ADD SCREENSHOT HERE -->
-
-`![Admin Login](screenshot/07-admin-login.png)`
-
-Protected administrator authentication.
+![Admin Dashboard](screenshot/08-admin-dashboard.png)
 
 ---
 
-## 📊 Admin Dashboard
+### 👥 Employee Management
 
-<!-- ADD SCREENSHOT HERE -->
+Manage registered employees.
 
-`![Admin Dashboard](screenshot/08-admin-dashboard.png)`
-
-Centralized overview of attendance statistics and employee activity.
+![Employee Management](screenshot/09-employee-management.png)
 
 ---
 
-## 👥 Employee Management
+### 📝 Attendance Logs
 
-<!-- ADD SCREENSHOT HERE -->
+View employee attendance records.
 
-`![Employee Management](screenshot/09-employee-management.png)`
-
-Administrators can view and manage registered employees.
+![Attendance Logs](screenshot/10-attendance-logs.png)
 
 ---
 
-## 📝 Attendance Logs
+### 📍 Geofence Settings
 
-<!-- ADD SCREENSHOT HERE -->
+Configure the attendance location boundary.
 
-`![Attendance Logs](screenshot/10-attendance-logs.png)`
-
-Detailed attendance records with punch-in, punch-out and attendance status.
+![Geofence Settings](screenshot/12-geofence-settings.png)
 
 ---
 
-## 🛠️ Attendance Management
+### 🧾 Verification Records
 
-<!-- ADD SCREENSHOT HERE -->
+View attendance verification records.
 
-`![Attendance Management](screenshot/11-attendance-management.png)`
-
-Authorized administrators can review and make necessary attendance corrections.
+![Verification Records](screenshot/13-verification-records.png)
 
 ---
 
-## 📍 Geofence / Office Settings
+### 📊 Excel Attendance Report
 
-<!-- ADD SCREENSHOT HERE -->
+Exported attendance report.
 
-`![Geofence Settings](screenshot/12-geofence-settings.png)`
-
-Configuration interface for the permitted workplace location and attendance radius.
-
----
-
-## 🧾 Verification Records
-
-<!-- ADD SCREENSHOT HERE -->
-
-`![Verification Records](screenshot/13-verification-records.png)`
-
-Administrative view of attendance verification records.
-
----
-
-## 📜 Audit Logs
-
-<!-- ADD SCREENSHOT HERE -->
-
-`![Audit Logs](screenshot/14-audit-logs.png)`
-
-Tracks important administrative actions for accountability and monitoring.
-
----
-
-## 📊 Excel Attendance Report
-
-<!-- ADD SCREENSHOT HERE -->
-
-`![Excel Attendance Report](screenshot/15-excel-report.png)`
-
-Attendance data can be exported into a structured Excel report for organizational record keeping.
-
----
+![Excel Attendance Report](screenshot/15-excel-report.png)
 
 
 # ⚙️ Technology Stack
