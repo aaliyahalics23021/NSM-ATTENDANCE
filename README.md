@@ -40,7 +40,7 @@
 
 <!-- ADD SCREENSHOT HERE -->
 
-`![AttendX Landing Page](screenshots/01-landing-page.png)`
+`![AttendX Landing Page](screenshot/01-landing-page.png)`
 
 Brief introduction to AttendX and navigation to the employee/admin portals.
 
@@ -50,7 +50,7 @@ Brief introduction to AttendX and navigation to the employee/admin portals.
 
 <!-- ADD SCREENSHOT HERE -->
 
-`![Employee Registration](screenshots/02-employee-registration.png)`
+`![Employee Registration](screenshot/02-employee-registration.png)`
 
 Employee registration interface with required identity and biometric verification steps.
 
@@ -60,7 +60,7 @@ Employee registration interface with required identity and biometric verificatio
 
 <!-- ADD SCREENSHOT HERE -->
 
-`![Employee Login](screenshots/03-employee-login.png)`
+`![Employee Login](screenshot/03-employee-login.png)`
 
 Employee authentication before accessing attendance features.
 
@@ -70,7 +70,7 @@ Employee authentication before accessing attendance features.
 
 <!-- ADD SCREENSHOT HERE -->
 
-`![Face and Location Verification](screenshots/04-face-location-verification.png)`
+`![Face and Location Verification](screenshot/04-face-location-verification.png)`
 
 Attendance verification using facial identity and permitted workplace location.
 
@@ -82,7 +82,7 @@ Attendance verification using facial identity and permitted workplace location.
 
 <!-- ADD SCREENSHOT HERE -->
 
-`![Employee Dashboard](screenshots/05-employee-dashboard.png)`
+`![Employee Dashboard](screenshot/05-employee-dashboard.png)`
 
 Displays attendance status, punch-in/punch-out information and working hours.
 
@@ -92,7 +92,7 @@ Displays attendance status, punch-in/punch-out information and working hours.
 
 <!-- ADD SCREENSHOT HERE -->
 
-`![Attendance History](screenshots/06-attendance-history.png)`
+`![Attendance History](screenshot/06-attendance-history.png)`
 
 Employee attendance records presented in an easy-to-read format.
 
@@ -104,7 +104,7 @@ Employee attendance records presented in an easy-to-read format.
 
 <!-- ADD SCREENSHOT HERE -->
 
-`![Admin Login](screenshots/07-admin-login.png)`
+`![Admin Login](screenshot/07-admin-login.png)`
 
 Protected administrator authentication.
 
@@ -114,7 +114,7 @@ Protected administrator authentication.
 
 <!-- ADD SCREENSHOT HERE -->
 
-`![Admin Dashboard](screenshots/08-admin-dashboard.png)`
+`![Admin Dashboard](screenshot/08-admin-dashboard.png)`
 
 Centralized overview of attendance statistics and employee activity.
 
@@ -124,7 +124,7 @@ Centralized overview of attendance statistics and employee activity.
 
 <!-- ADD SCREENSHOT HERE -->
 
-`![Employee Management](screenshots/09-employee-management.png)`
+`![Employee Management](screenshot/09-employee-management.png)`
 
 Administrators can view and manage registered employees.
 
@@ -134,7 +134,7 @@ Administrators can view and manage registered employees.
 
 <!-- ADD SCREENSHOT HERE -->
 
-`![Attendance Logs](screenshots/10-attendance-logs.png)`
+`![Attendance Logs](screenshot/10-attendance-logs.png)`
 
 Detailed attendance records with punch-in, punch-out and attendance status.
 
@@ -144,7 +144,7 @@ Detailed attendance records with punch-in, punch-out and attendance status.
 
 <!-- ADD SCREENSHOT HERE -->
 
-`![Attendance Management](screenshots/11-attendance-management.png)`
+`![Attendance Management](screenshot/11-attendance-management.png)`
 
 Authorized administrators can review and make necessary attendance corrections.
 
@@ -154,7 +154,7 @@ Authorized administrators can review and make necessary attendance corrections.
 
 <!-- ADD SCREENSHOT HERE -->
 
-`![Geofence Settings](screenshots/12-geofence-settings.png)`
+`![Geofence Settings](screenshot/12-geofence-settings.png)`
 
 Configuration interface for the permitted workplace location and attendance radius.
 
@@ -164,7 +164,7 @@ Configuration interface for the permitted workplace location and attendance radi
 
 <!-- ADD SCREENSHOT HERE -->
 
-`![Verification Records](screenshots/13-verification-records.png)`
+`![Verification Records](screenshot/13-verification-records.png)`
 
 Administrative view of attendance verification records.
 
@@ -174,7 +174,7 @@ Administrative view of attendance verification records.
 
 <!-- ADD SCREENSHOT HERE -->
 
-`![Audit Logs](screenshots/14-audit-logs.png)`
+`![Audit Logs](screenshot/14-audit-logs.png)`
 
 Tracks important administrative actions for accountability and monitoring.
 
@@ -184,21 +184,12 @@ Tracks important administrative actions for accountability and monitoring.
 
 <!-- ADD SCREENSHOT HERE -->
 
-`![Excel Attendance Report](screenshots/15-excel-report.png)`
+`![Excel Attendance Report](screenshot/15-excel-report.png)`
 
 Attendance data can be exported into a structured Excel report for organizational record keeping.
 
 ---
 
-## 🌙 Light / Dark Mode
-
-<!-- ADD SCREENSHOT HERE -->
-
-`![Dark Mode](screenshots/16-dark-mode.png)`
-
-Responsive interface supporting both light and dark themes.
-
----
 
 # ⚙️ Technology Stack
 
