@@ -2,13 +2,13 @@
 
 **AttendX** is a secure, mobile-first attendance management system designed to simplify employee attendance through **facial verification, location-based validation, and centralized administration**.
 
-🌐 **Live Website:** [AttendX](https://attendx-frontend-eight.vercel.app/)
+**Live Website:** [AttendX](https://attendx-frontend-eight.vercel.app/)
 
 ---
 
-## ✨ Features
+##  Features
 
-### 👤 Employee Portal
+###  Employee Portal
 
 * Secure employee registration
 * Face-based identity verification
@@ -19,7 +19,7 @@
 * Verification records
 * Mobile-friendly interface
 
-### 🛡️ Admin / HR Portal
+###  Admin / HR Portal
 
 * Secure administrator login
 * Employee management
@@ -32,9 +32,9 @@
 * Audit logs
 * Excel attendance reports
 
-## 📸 Application Screenshots
+##  Application Screenshots
 
-### 🏠 Landing Page
+###  Landing Page
 
 The main entry point of AttendX.
 
@@ -42,7 +42,7 @@ The main entry point of AttendX.
 
 ---
 
-### 👤 Employee Registration
+###  Employee Registration
 
 Employee registration interface.
 
@@ -50,7 +50,7 @@ Employee registration interface.
 
 ---
 
-### 🔐 Employee Login
+###  Employee Login
 
 Login interface for registered employees.
 
@@ -58,7 +58,7 @@ Login interface for registered employees.
 
 ---
 
-### 📍 Face & Location Verification
+###  Face & Location Verification
 
 Face and location verification before attendance.
 
@@ -66,9 +66,9 @@ Face and location verification before attendance.
 
 ---
 
-# 🧑‍💼 Admin Portal
+#  Admin Portal
 
-### 🔑 Admin Login
+###  Admin Login
 
 Secure administrator login.
 
@@ -76,7 +76,7 @@ Secure administrator login.
 
 ---
 
-### 📊 Admin Dashboard
+###  Admin Dashboard
 
 Overview of attendance information.
 
@@ -84,7 +84,7 @@ Overview of attendance information.
 
 ---
 
-### 👥 Employee Management
+###  Employee Management
 
 Manage registered employees.
 
@@ -92,7 +92,7 @@ Manage registered employees.
 
 ---
 
-### 📝 Attendance Logs
+###  Attendance Logs
 
 View employee attendance records.
 
@@ -100,7 +100,7 @@ View employee attendance records.
 
 ---
 
-### 📍 Geofence Settings
+###  Geofence Settings
 
 Configure the attendance location boundary.
 
@@ -108,7 +108,7 @@ Configure the attendance location boundary.
 
 ---
 
-### 🧾 Verification Records
+###  Verification Records
 
 View attendance verification records.
 
@@ -116,14 +116,14 @@ View attendance verification records.
 
 ---
 
-### 📊 Excel Attendance Report
+###  Excel Attendance Report
 
 Exported attendance report.
 
 ![Excel Attendance Report](screenshot/15-excel-report.png)
 
 
-# ⚙️ Technology Stack
+#  Technology Stack
 
 | Layer             | Technologies                             |
 | ----------------- | ---------------------------------------- |
@@ -137,7 +137,7 @@ Exported attendance report.
 
 ---
 
-# 🔄 How AttendX Works
+#  How AttendX Works
 
 ```text
 Employee
@@ -157,7 +157,7 @@ Attendance Reports
 
 ---
 
-# 🔐 Security & Privacy
+#  Security & Privacy
 
 AttendX is designed with security and privacy in mind.
 
@@ -168,4 +168,4 @@ AttendX is designed with security and privacy in mind.
 * Audit logging
 * Secure environment-based configuration
 * No sensitive credentials stored in the repository
-🌐 **Live Demo:** [attendx-frontend-eight.vercel.app](https://attendx-frontend-eight.vercel.app/)
+ **Live Demo:** [attendx-frontend-eight.vercel.app](https://attendx-frontend-eight.vercel.app/)
